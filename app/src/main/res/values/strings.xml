@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="rupee">Rupee</string>
+    <string name="name">Name</string>
+    <string name="amount">Amount</string>
+    <string name="enter_the_amount_you_want_to_convert">Enter the Amount You Want To Convert</string>
+    <string name="convert">CONVERT</string>
+    <string name="enter_the_amount_in_rupeees_to_convert_into_dollars">Enter the Amount In Rupeees To convert into Dollars</string>
+    <string name="enter_amount_in_dollars_to_convert_into_rupees">Enter Amount In Dollars To Convert Into Rupees</string>
+    <string name="todo">TODO</string>
+</resources>
